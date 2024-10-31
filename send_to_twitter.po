@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-11 17:31+0200\n"
+"Last-Translator: Braulio Aquino <braulio@braulioaquino.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Send to Twitter"
+msgstr ""
+
+msgid "Installation"
+msgstr ""
+
+msgid "Go to the menu"
+msgstr ""
+
+msgid "and enter the following code in the exact position where you want to see their text links"
+msgstr ""
+
+msgid "We recommend placing it in"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Without Twitter account"
+msgstr ""
+
+msgid "With Twitter account"
+msgstr ""
+
+msgid "Twitter account"
+msgstr ""
+
+msgid "Without custom message"
+msgstr ""
+
+msgid "With custom message"
+msgstr ""
+
+msgid "Custom message"
+msgstr ""
+
+msgid "Without API KEY"
+msgstr ""
+
+msgid "We recommend using an API KEY to have the shortened url's history."
+msgstr ""
+
+msgid "With API KEY"
+msgstr ""
+
+msgid "API KEY"
+msgstr ""
+
+msgid "To obtain an API KEY and see the history of your shortened url visit"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "by"
+msgstr ""
